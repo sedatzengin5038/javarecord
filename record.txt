@@ -1,0 +1,98 @@
+
+Id= 1
+Name= gfg kvbms
+Street= aksdk kfgdja
+City= öghnlgl pfgkfdj
+Gender= m
+Zip= 45215
+
+Id= 2
+Name= rteııwıgds
+Street= gmdgew
+City= gmdh
+Gender= m
+Zip= 4411
+
+Id= 3
+Name= rteııwı
+Street= cvjvnj
+City= cvjvnj
+Gender= m
+Zip= 84512
+
+Id= 4
+Name= rteııwıgds
+Street= gmdgew
+City= gmdh
+Gender= m
+Zip= 4411
+
+Id= 5
+Name= ğtrewq
+Street= fkdkdf
+City= pytıu
+Gender= f
+Zip= 582
+
+Id= 6
+Name= gfkkf
+Street= d cma fds
+City= dwoqo wqq
+Gender= f
+Zip= 96124
+
+Id= 7
+Name= gfg kvbms
+Street= weqq
+City= öghnlgl
+Gender= f
+Zip= 43253
+
+Id= 8
+Name= gfg kvbms
+Street= aksdk kfgdja
+City= öghnlgl pfgkfdj
+Gender= m
+Zip= 45215
+
+Id= 9
+Name= kvbms gfdlkd
+Street= kfgdja cvbkm 
+City= pfgkfdj qwq
+Gender= f
+Zip= 966
+
+Id= 10
+Name= nullrelrel fdııwqju
+Street= nullgövmbf  gdsk
+City= nulldmss vvcöxöm
+Gender= m
+Zip= 5269
+
+Id= 11
+Name= nullgfg pgüğ
+Street= nullaksdk tr0r
+City= kgjbfgnbgf
+Gender= f
+Zip= 1023
+
+Id= 12
+Name= nullnullgfg kvbms 
+Street= nullnullweqq 
+City= nullnullöghnlgl 
+Gender= m
+Zip= 43253
+
+Id= 13
+Name= nullgfg kvbms 
+Street= nullweqq 
+City= nullöghnlgl 
+Gender= f
+Zip= 43253
+
+Id= 14
+Name= nullnullgfg kvbms 
+Street= nullnullweqq 
+City= nullnullöghnlgl 
+Gender= f
+Zip= 43253
